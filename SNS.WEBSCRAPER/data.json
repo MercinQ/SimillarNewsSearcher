@@ -5,8 +5,8 @@
     "URL_3": "https://tvn24.pl/polska",
 
     "Wideo_link": "https://www.polsatnews.pl/wideo/",
-
     "Wiadomosc_link": "https://www.polsatnews.pl/wiadomosc/",
+    "tvn_link": "https://tvn24.pl/go/",
 
     "find_1": "container__col container__col--main",
     "find_2": "stream",
